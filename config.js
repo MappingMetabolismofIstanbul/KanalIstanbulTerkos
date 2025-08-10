@@ -353,7 +353,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://iili.io/FgPuSFn.png',
+            image: 'https://i.ibb.co/ynVsDHVg/MEF-AAP-027-BAP-PART-II-2025-08-10-10-48-59.png',
             description: '',
             location: {
                 center: [28.674,41.301],
